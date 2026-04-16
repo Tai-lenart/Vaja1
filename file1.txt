@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Sprememba v main veji
+=======
+Sprememba v veji veja1
+>>>>>>> veja1
